@@ -4,5 +4,6 @@
     {
         Console.WriteLine("Hello, Mykola!");
         Console.WriteLine("Hello");
+        Console.WriteLine("Hi");
     }
 }
